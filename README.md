@@ -16,6 +16,9 @@
 -	[分布式系统原理介绍--刘杰](https://github.com/hongweikkx/reading/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%BB%8B%E7%BB%8D.pdf)
 
 -	[走进分布式--ccshih](https://github.com/hongweikkx/reading/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F/%E8%B5%B0%E8%BF%9B%E5%88%86%E5%B8%83%E5%BC%8F.pdf)
+- 	[MapReduce: Simplified Data Processing on Large Clusters](http://nil.csail.mit.edu/6.824/2016/papers/mapreduce.pdf)
+-  	[The Google File System](http://nil.csail.mit.edu/6.824/2016/papers/gfs.pdf)
+-    [ZooKeeper: Wait-free coordination for Internet-scale systems](http://nil.csail.mit.edu/6.824/2016/papers/zookeeper.pdf)
 
 ## 架构
 -	[Heap Architectures for Concurrent Languages using Message Passing](http://www.fantasi.se/publications/ISMM02.pdf)

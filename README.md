@@ -7,6 +7,7 @@
 
 - Golang
 	-	[Patterns and Hints for Concurrency in Go](http://nil.csail.mit.edu/6.824/2018/notes/gopattern.pdf)
+	-	[Golang 垃圾回收剖析](http://legendtkl.com/2017/04/28/golang-gc/)
 
 ## 算法
 

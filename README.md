@@ -21,6 +21,9 @@
 -  	[The Google File System](http://nil.csail.mit.edu/6.824/2016/papers/gfs.pdf)
 -    [ZooKeeper: Wait-free coordination for Internet-scale systems](http://nil.csail.mit.edu/6.824/2016/papers/zookeeper.pdf)
 
+## 云计算
+-	[Azure云计算团队- 云设计模式](https://github.com/iambowen/cloud-design-patterns)
+
 ## 架构
 -	[Heap Architectures for Concurrent Languages using Message Passing](http://www.fantasi.se/publications/ISMM02.pdf)
 

@@ -8,10 +8,13 @@
 - Golang
 	-	[Patterns and Hints for Concurrency in Go](http://nil.csail.mit.edu/6.824/2018/notes/gopattern.pdf)
 	-	[Golang 垃圾回收剖析](http://legendtkl.com/2017/04/28/golang-gc/)
+	-  [The Uber Go Style Guide](https://github.com/uber-go/guide)
 
 ## 算法
 
 -	[背包问题九讲](https://github.com/tianyicui/pack)
+-  [权重轮询](https://tenfy.cn/2018/11/12/smooth-weighted-round-robin/)
+- [一致性哈希 -- Consistent Hashing and Random Trees:Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](http://www.akamai.com/dl/technical_publications/ConsistenHashingandRandomTreesDistributedCachingprotocolsforrelievingHotSpotsontheworldwideweb.pdf)
 
 ## 分布式
 -	[分布式系统原理介绍--刘杰](https://github.com/hongweikkx/reading/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%BB%8B%E7%BB%8D.pdf)
